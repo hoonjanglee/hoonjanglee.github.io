@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: GA 추가 및 tag 기능 추가
 tags: [programming]
 ---
