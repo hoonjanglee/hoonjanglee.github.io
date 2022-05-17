@@ -18,8 +18,8 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : "https://hoonjanglee.github.io"
-baseurl : "/"
+url     : https://hoonjanglee.github.io
+baseurl : /
 title   : 훈장리
 description: > # this means to ignore newlines until "Language & timezone"
   공부하기 싫다
@@ -27,7 +27,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
-lang: ko
+lang: en
 timezone: Asia/Seoul
 
 
@@ -35,8 +35,8 @@ timezone: Asia/Seoul
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 훈장리
-  url       : "https://hoonjanglee.github.io"
+  name      : 이장훈
+  url       : https://hoonjanglee.github.io
   avatar    : # path or url of avatar image (square)
   bio       : I am an OMG person.
   email     :

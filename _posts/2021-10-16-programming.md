@@ -1,7 +1,6 @@
 ---
-
 title: GA 추가 및 tag 기능 추가
-tags: [programming]
+tags: programming
 ---
 
 ### Google analytics 추가
