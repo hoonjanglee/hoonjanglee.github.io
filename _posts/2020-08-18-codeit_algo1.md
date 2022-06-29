@@ -1,6 +1,6 @@
 ---
 title: Palindrome Algorithm
-tags: reivew
+tags: review
 ---
 ### 마켓컬리 인사이트 독후감
 
