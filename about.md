@@ -3,7 +3,7 @@ layout: article
 titles: Janghoon Lee
 key: page-about
 ---
-# 소개
+소개
 
 ## 이장훈
 <img width="1074" alt="스크린샷 2022-08-23 오후 6 39 41" src="https://user-images.githubusercontent.com/50545088/186130951-73b9f8c7-76d9-4aa2-bc39-67dd2ed65fe4.png">
