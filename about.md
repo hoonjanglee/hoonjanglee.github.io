@@ -1,74 +1,61 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
+titles: Janghoon Lee
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+<img width="1074" alt="스크린샷 2022-08-23 오후 6 39 41" src="https://user-images.githubusercontent.com/50545088/186130951-73b9f8c7-76d9-4aa2-bc39-67dd2ed65fe4.png">
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+## 훈장리
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+파주 디스플레이 회사에서 회로 설계 업무를 하고 있습니다. (DDIC verification, PCB artwork design)
+인문학 공부와 코딩 공부를 좋아합니다.
 
-## Features
+## Education
+**B.S. in** [Information Display](https://display.khu.ac.kr/display/user/contents/view.do?menuNo=3500007), Moved from [Global Eminence](http://globaleminence.khu.ac.kr/) _(2015 - 2021)_ <br/>
+[*Kyunghee University*](https://www.khu.ac.kr/eng/main/index.do), Seoul, South Korea
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
+## Research Interests
+Online social behavior, Democracy of Social media, Explainable AI, AI ethics, Analog Semiconductor design
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+## Experience
+**LG Display Circuit Design Engineer** <br/>
+*245, LG-ro, Wollong-myeon, Paju-si, Gyeonggi-do, Republic of Korea, 2022.01 - *
+  - AR/VR Display Development, DDIC development and Display Module Realiability Test. 
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+**Semantic X-ray Company Develepment Internship** <br/>
+*DRTECH(X-ray Detector Company) Development 1 team, 2019.07 - 2019.08*
+  - Developed a upgrade X-ray detector machine with TFT verification
+ 
+## Skills
 
-### Highlight Theme
+- **Programming Languages:** Python, C/C++, Assembly
+- **Data Analysis:** nltk, spaCy, pandas, SciPy, scikit-learn, PySpark, MATLAB
+- **Tools and Framework:** Visual Studio Code, Git/Github, LaTeX, MS Office, HTML, CSS
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+## Languages
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+Korean(Native), English(Advanced), Vietnamese(Basic)
+
+## Scholarships
+**K-Honors sholarships**<br/>
+_Based on activities plan, for $5,000 (2020)_
+**Samsung Dreamclass sholarships**<br/>
+_Activities(Tutor)-based scholarships for six semesters (2018;2020)_
+**The RIGHT HANDS scholarships**<br/>
+_Merit-based scholarships for four semesters (2019;2020)_
+**Samsong organization scholarships**<br/>
+_Merit-based scholarships for four semesters (2019;2020)_
+
+## Activities
+
+- **Konkuk University Book club BOOKIST** _(2014)_ <br/>
+    _In affliation with the Philosophy and Consiliene, Making book other conference for Dedate_
+- **Korea Student Aid Foundation Readership Program** _(2015)_ <br/>
+    _In Metee Learning Readership and Outactivities etc, Seoul, Korea_
+- **Computer Programming club LIKELION** _(2019 ; 2020)_ <br/>
+    _Development website with Django and Teaching other programming language_
+- **Kyunghee University Undergraduate Student Council** _(2015)_ <br/>
+    _A student council member_
