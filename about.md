@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: &ko 소개
+titles: &KO 소개
 key: page-about
 ---
 
