@@ -5,6 +5,9 @@ key: page-about
 ---
 
 
+### Janghoon Lee
+
+
 <img width="1074" alt="스크린샷 2022-08-23 오후 6 39 41" src="https://user-images.githubusercontent.com/50545088/186130951-73b9f8c7-76d9-4aa2-bc39-67dd2ed65fe4.png">
 
 ## Introduction
@@ -23,12 +26,12 @@ Online social behavior, Democracy of Social media, Explainable AI, AI ethics, An
 
 ## Experience
 **Digital Circuit Design Engineer** <br/>
-*Senior Engineer, VX Task, LG Display 2022.01~*
-  - VR Display Development, DDIC development and Display Module Reliability Test. 
+*Senior Engineer, VX Task LG Display 2022.01~*
+  - VR pOLED Display, DDIC Development and FPCB Artwork, Display Module Reliability Test. 
 
-**Semantic X-ray Detecter Company Internship** <br/>
-*DRTECH(X-ray Detecter Company) Development 1 team, 2019.07 - 2019.08*
-  - Developed a upgrade X-ray detector machine with TFT verification
+**Summer Vacation X-ray Detecter Company Internship** <br/>
+*Research & Development 1 team, DRTECH(X-ray Detecter Company) 2019.07 - 2019.08*
+  - Developed a upgrade X-ray detector with TFT Verification
  
 ## Skills
 
@@ -38,12 +41,12 @@ Online social behavior, Democracy of Social media, Explainable AI, AI ethics, An
 
 ## Languages
 
-Korean(Native), English(Advanced), Vietnamese(Basic)
+Korean(Native), English(Advanced)
 
 
 ## Scholarships
 **K-Honors sholarships**<br/>
-_Based on activities plan, for $5,000 (2020)_
+_Based on activities plan(2020)_
 
 **Samsung Dreamclass sholarships**<br/>
 _Activities(Tutor)-based scholarships for six semesters (2018 ; 2020)_
@@ -60,6 +63,8 @@ _Merit-based scholarships for four semesters by [Samsong org.](http://www.samson
     _Development website with Django and Teaching other programming language_
 - **Military Services** _(2016 ; 2017)_ <br/>
     _Assistant to drill instructor for Reserve Forces, At 55 Devisions_
+- **Korean University Council For Social Service Volunteer** _(2015)_
+    _Anyang 5-dong 
 - **Korea Student Aid Foundation Readership Program** _(2015)_ <br/>
     _In Metee Learning Readership and Outactivities etc, Seoul, Korea_
 - **Kyunghee University Undergraduate Student Council** _(2015)_ <br/>
