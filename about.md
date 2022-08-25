@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: About
+title: About
 key: page-about
 ---
 
@@ -11,7 +11,7 @@ key: page-about
 인문학과 러닝을 좋아합니다. 
 
 ## Education
-**B.S. in**[Information Display](https://display.khu.ac.kr/display/user/contents/view.do?menuNo=3500007), Moved from [Global Eminence](http://globaleminence.khu.ac.kr/) _(2015 - 2021)_ <br/>
+**B.S. in** [Information Display](https://display.khu.ac.kr/display/user/contents/view.do?menuNo=3500007), Moved from [Global Eminence](http://globaleminence.khu.ac.kr/) _(2015 - 2021)_ <br/>
 [*Kyunghee University*](https://www.khu.ac.kr/eng/main/index.do), Seoul, South Korea
 
 
