@@ -58,7 +58,7 @@ _Merit-based scholarships for four semesters by [Samsong org.](http://www.samson
     _Development website with Django and Teaching other programming language_
 - **Military Services** _(2016 ; 2017)_ <br/>
     _Assistant to drill instructor for Reserve Forces, At 55 Devisions_
-- **Korean University Council For Social Service Volunteer** _(2015)_
+- **Korean University Council For Social Service Volunteer** _(2015)_ <br/>
     _Anyang 5-dong making better load, 사람사랑봉사단 녹음팀_
 - **Korea Student Aid Foundation Readership Program** _(2015)_ <br/>
     _In Metee Learning Readership and Outactivities etc, Seoul, Korea_
