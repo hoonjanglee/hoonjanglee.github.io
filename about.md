@@ -5,7 +5,6 @@ titles: About
 key: page-about
 ---
 
-### Janghoon Lee
 
 <img width="1074" alt="스크린샷 2022-08-23 오후 6 39 41" src="https://user-images.githubusercontent.com/50545088/186130951-73b9f8c7-76d9-4aa2-bc39-67dd2ed65fe4.png">
 
@@ -63,7 +62,7 @@ _Merit-based scholarships for four semesters by [Samsong org.](http://www.samson
 - **Military Services** _(2016 ; 2017)_ <br/>
     _Assistant to drill instructor for Reserve Forces, At 55 Devisions_
 - **Korean University Council For Social Service Volunteer** _(2015)_
-    _Anyang 5-dong 
+    _Anyang 5-dong making better load, 사람사랑봉사단 녹음팀_
 - **Korea Student Aid Foundation Readership Program** _(2015)_ <br/>
     _In Metee Learning Readership and Outactivities etc, Seoul, Korea_
 - **Kyunghee University Undergraduate Student Council** _(2015)_ <br/>
