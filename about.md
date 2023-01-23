@@ -6,7 +6,7 @@ key: page-about
 
 ![welcome](assets/images/welcome.png)
 
-파주 디스플레이 회사에서 회로 설계 업무를 하고 있습니다. (DDIC Verification, FPCB Artwork design) <br>
+자동차 회사에서 품질 보증 업무를 하고 있습니다. (Infortainment system Quality Assurance) <br>
 
 인문학과 러닝을 좋아합니다. 
 
@@ -20,8 +20,13 @@ Online social behavior, Democracy of Social media, Explainable AI, AI ethics, An
 
 
 ## Experience
+**Qualuty Assurance Engineer** <br/>
+*Manager, Electrical Powertrain Quality Assurance team 4 Hyundai motors 2022.12 -*
+  - Infortainment system, ETSC, Amp, Cluster Quality Assurance. 
+
+
 **Digital Circuit Design Engineer** <br/>
-*Senior Engineer, VX Task LG Display 2022.01~*
+*Senior Engineer, VX Task LG Display 2021.01 - 2022.11*
   - VR pOLED Display, DDIC Development and FPCB Artwork, Display Module Reliability Test. 
 
 **Summer Vacation X-ray Detecter Company Internship** <br/>
@@ -51,6 +56,10 @@ _Merit-based scholarships for four semesters by [The Righthands](http://www.ther
 
 **Samsong organization scholarships**<br/>
 _Merit-based scholarships for four semesters by [Samsong org.](http://www.samsong.org/info2.htm) (2019 ; 2020)_
+
+**LGenius 10th scholarships**<br/>
+_Merit-based scholarships for four semesters by [LG Display](https://www.lgdisplay.com/kor/company/employ/job-application/domestic-lgenius) (2020 ; 2020)_
+
 
 ## Activities
 
