@@ -20,7 +20,7 @@ Online social behavior, Democracy of Social media, Explainable AI, AI ethics, An
 
 
 ## Experience
-**Qualuty Assurance Engineer** <br/>
+**Quality Assurance Engineer** <br/>
 *Manager, Electrical Powertrain Quality Assurance team 4 Hyundai motors 2022.12 -*
   - Infortainment system, ETSC, Amp, Cluster Quality Assurance. 
 
