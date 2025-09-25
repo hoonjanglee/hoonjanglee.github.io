@@ -8,7 +8,7 @@ key: page-about
 
 자동차 회사에서 품질 보증 업무를 하고 있습니다. (Infortainment system Quality Assurance) <br>
 
-인문학과 러닝을 좋아합니다. 
+인문학과 수영을 좋아합니다. 
 
 ## Education
 **B.S. in** [Information Display](https://display.khu.ac.kr/display/user/contents/view.do?menuNo=3500007), Moved from [Global Eminence](http://globaleminence.khu.ac.kr/) _(2015 - 2021)_ <br/>
