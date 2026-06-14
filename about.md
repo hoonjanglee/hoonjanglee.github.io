@@ -63,7 +63,7 @@ _Merit-based scholarships for four semesters by [LG Display](https://www.lgdispl
 
 ## Activities
 
-- **Seongnam Youth Governance Council** _(2026)_ <br/>
+- **Seongnam/Hwaseong Youth Governance Council** _(2026)_ <br/>
     _Participated in discussions and initiatives to address local youth issues and contribute to policy recommendations in Seongnam_
 
 - **Global Planning Youth Organization** _(2025)_ <br/>
