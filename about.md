@@ -6,7 +6,7 @@ key: page-about
 
 ![welcome](assets/images/welcome.png)
 
-자동차 회사에서 품질 보증 업무를 하고 있습니다. (Infortainment system Quality Assurance) <br>
+자동차 회사에서 품질 보증 업무를 하고 있습니다. (Infortainment System Quality Assurance) <br>
 
 인문학과 수영을 좋아합니다. 
 
@@ -63,15 +63,29 @@ _Merit-based scholarships for four semesters by [LG Display](https://www.lgdispl
 
 ## Activities
 
+- **Seongnam Youth Governance Council** _(2026)_ <br/>
+    _Participated in discussions and initiatives to address local youth issues and contribute to policy recommendations in Seongnam_
+
+- **Global Planning Youth Organization** _(2025)_ <br/>
+    _Pangyo Youth Center, Planning for events for foreigner and Students_
+
+- **Gyeonggi Youth Engagement Council** _(2023 ; 2024)_ <br/>
+    _Participated in policy discussions and proposed ideas to represent the voices of young people in Gyeonggi Province_
+
 - **Computer Programming Club LIKELION** _(2019 ; 2020)_ <br/>
     _Development website with Django and Teaching other programming language_
+
 - **Military Services** _(2016 ; 2017)_ <br/>
     _Assistant to drill instructor for Reserve Forces, At 55 Devisions_
+
 - **Korean University Council For Social Service Volunteer** _(2015)_ <br/>
     _Anyang 5-dong making better load, 사람사랑봉사단 녹음팀_
+
 - **Korea Student Aid Foundation Readership Program** _(2015)_ <br/>
     _In Metee Learning Readership and Outactivities etc, Seoul, Korea_
+
 - **Kyunghee University Undergraduate Student Council** _(2015)_ <br/>
     _A student council member_
+
 - **Konkuk University Book club BOOKIST** _(2014)_ <br/>
     _In affliation with the Philosophy and Consiliene, Making book other conference for Dedate_
