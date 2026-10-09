@@ -8,8 +8,10 @@ key: page-about
 
 자동차 회사에서 품질 보증 업무를 하고 있습니다. (Infortainment System Quality Assurance) <br>
 
-내 인생의 BTS (Behind The Scene)을 유쾌하게, 깔끔하게, 노래랑 올리자
-
+- 유머
+- 노래 첨부
+- 결과 위주 (1회/달)
+- BTS
 
 ## Education
 **B.S. in** [Information Display](https://display.khu.ac.kr/display/user/contents/view.do?menuNo=3500007), Moved from [Global Eminence](http://globaleminence.khu.ac.kr/) _(2015 - 2021)_ <br/>
